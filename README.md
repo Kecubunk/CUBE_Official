@@ -18,6 +18,6 @@ CUBE-BOARD is only use local network, but it can be use mqtt too just Upload new
 # CUBE Android Apps :
 
 This Apps is Free for Everyone, but this apps need registration to make me keep tracking for CUBE-BOARD User support. 
-Since it free everyone do consider to donate me for entended development.
+Since it free everyone do consider to donate me for extended development.
 
-
+paypal.me/Cahyohertanto
