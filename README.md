@@ -22,4 +22,4 @@ Since it free everyone do consider to donate me for extended development, or sup
 
 Donate ME via Paypal 
 
-paypal.me/Cahyohertanto
+http://paypal.me/Cahyohertanto
