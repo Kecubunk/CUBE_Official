@@ -30,26 +30,27 @@ CUBE-BOARD is only use local network, but it can be use mqtt too just Upload new
 2. Open CUBE Android Apps and Register it for one time only Registration.
 
 <p align="center">
-  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/CUBE_image/opening.png" width="320"/>
+  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/opening.png" width="320"/>
 </p>
 
 3. Got To Settings Page  and Enter CUBE Board IP address and save it.
 
 <p align="center">
-  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/CUBE_Apps_View/2018_06_19_19.22.40.png" width="320"/>
+  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/settings.png" width="320"/>
 </p>
 
 4. You Have Options to control Your'e CUBE board via UPnP or Webpage.
 5. In Control Page <b>Hold Button</b> to setup Port and changing Button Name. (CUBE-BOARD PORT willbe 8080 - 8083 only).
 
 <p align="center">
-  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/CUBE_image/control2.png" width="320"/>
+  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/port_select.png" width="320"/>
+  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/renaming%20button.png" width="320"/>
 </p>
 
 6. In Web Page You can Control directly using Ajax Capability by Pressing Button.
 
 <p align="center">
-  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/CUBE_image/webpage.png" width="320"/>
+  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/webpage.png" width="320"/>
 </p>
 
 7. Information Page is for read CUBE-Board Device info via Webservice.
