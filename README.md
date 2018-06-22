@@ -28,7 +28,9 @@ CUBE-BOARD is only use local network, but it can be use mqtt too just Upload new
 # How To :
 1. Turn On CUBE-Board and Connecting to your'e router via Captive Portal.
 2. Open CUBE Android Apps and Register it for one time only Registration.
-![Cat](https://raw.githubusercontent.com/Kecubunk/CUBE_Official/CUBE_image/opening.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kecubunk/CUBE_Official/CUBE_image/opening.png" width="350"/>
+</p>
 3. Got To Settings Page  and Enter CUBE Board IP address and save it.
 4. You Have Options to control Your'e CUBE board via UPnP or Webpage.
 5. In Control Page Hold Button to setup Port and changing Button Name. (CUBE-BOARD PORT willbe 8080 - 8083 only).
