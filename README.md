@@ -45,6 +45,7 @@ CUBE-BOARD is only use local network, but it can be use mqtt too just Upload new
 <p align="center">
   <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/port_select.png" width="320"/>
   <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/renaming%20button.png" width="320"/>
+  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/after%20renaming.png" width="320"/>
 </p>
 
 6. In Web Page You can Control directly using Ajax Capability by Pressing Button.
