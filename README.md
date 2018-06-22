@@ -48,7 +48,7 @@ CUBE-BOARD is only use local network, but it can be use mqtt too just Upload new
 4. You Have Options to control Your'e CUBE board via UPnP or Webpage.
 5. In Control Page <b>Hold Button</b> to setup Port and changing Button Name. (CUBE-BOARD PORT willbe 8080 - 8083 only).
 
-<p>
+<p align="center">
   <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/port_select.png" width="320"/>
   <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/renaming%20button.png" width="320"/>
   <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/Image/after%20renaming.png" width="320"/>
