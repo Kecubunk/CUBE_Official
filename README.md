@@ -42,6 +42,11 @@ CUBE-BOARD is only use local network, but it can be use mqtt too just Upload new
 </p>
 
 6. In Web Page You can Control directly using Ajax Capability by Pressing Button.
+
+<p align="center">
+  <img src="https://github.com/Kecubunk/CUBE_Official/blob/master/CUBE_image/webpage.png" width="320"/>
+</p>
+
 7. Information Page is for read CUBE-Board Device info via Webservice.
 8. Update is for Update New CUBE firmware binary via HTTP service, this experimental feature.
 
